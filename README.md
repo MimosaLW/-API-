@@ -116,4 +116,5 @@ MIT
 
 ## 作者
 
-Created with ❤️ for AI enthusiasts
+自用，AI写着玩
+For personal use, just having fun with AI
